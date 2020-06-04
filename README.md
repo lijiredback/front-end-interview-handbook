@@ -1,4 +1,4 @@
-# <center>interview</center>
+<h1 align="center">前端面基宝典</h1>
 
 
 ## [JavaScript](https://github.com/lijiredback/front-end-interview-handbook/blob/master/questions/JAVASCRIPT.md)
@@ -12,7 +12,6 @@
 ## 框架
 
 <!-- #### babel ES6 转 ES5 原理 -->
-
 
 <!-- ### Animation -->
 
